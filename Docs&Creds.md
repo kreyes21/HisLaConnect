@@ -1,6 +1,6 @@
-Although I created a read me file that contains this data, I felt it was necessary to create a new file that highlighted this information.
+***Although I created a read me file that contains this data, I felt it was necessary to create a new file that highlighted this information.***
 
-#Documentation & Credits
+# Documentation & Credits
 
 ### Link to Prototype
 IMPORTANT NOTICE: Although the prototype is compatible with mobile applications, it is recommended that you use the app on a computer, desktop or laptop of some kind for the best experience. We also recommend that you use the "Fit to Screen" feature in Figma. How to achieve fit to screen? Options > Fit to Screen or click Z on your keyboard.
