@@ -24,7 +24,7 @@ As the Full-Stack Developer, Ariadna made sure to create any necessary component
 ### Below is a series of questions provided by the Leadership Academy to brainstorm different aspects of the Project. 
 
 ### [Rationale] Why this project?
-*We are hoping to provide a resource hub for Hispanic and Latino Communities. We aim to create a space that will allow them to bridge connections and networking opportunities with other individuals who may currently be involved in their preferred industries. This project is especially important to the product owner, Kayla Reyes, as she hopes to inpire more conversations, resources and opportunities to bring Hispanic and Latino communities together.*
+*We are hoping to provide a resource hub for Hispanic and Latino Communities. We aim to create a space that will allow them to bridge connections and networking opportunities with other individuals who may currently be involved in their preferred industries. This project is especially important to the product owner, Kayla Reyes, as she hopes to inspire more conversations, resources and opportunities to bring Hispanic and Latino communities together.*
 
 ### [Problem/Opportunity Statement] What problem/challenge does this project address? How does the project address this problem?
 *We plan to address the lack of visibility these Hispanic and Latino resources have to reaching this said demographic. This would be a toolkit, directory or a type of platform that would house various assets and opportunities can be used to thrive in their desired career paths.*
